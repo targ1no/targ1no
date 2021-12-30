@@ -1,7 +1,7 @@
 ### Hi, I'm **targ1no** :wink: 
 
 <div>I'm < front-end > student trying to migrate to this amazing universe and also study Software Engineering. ✨</div>
-<div>I'm looking for constant learning and like to share learning with everyone. </div>
+<div>I'm looking for constant learning and like to share with everyone. </div>
   
 <br>
 

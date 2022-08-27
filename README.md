@@ -5,6 +5,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 33px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="width: 33px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" style="width: 33px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" style="width: 33px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="width: 33px;"/>
    <img src="https://dtmvamahs40ux.cloudfront.net/gl-academy/course/course-1212-bs.jpg" style="width: 75px;"/>
 </div>

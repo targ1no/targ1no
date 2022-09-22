@@ -1,7 +1,7 @@
 ### Olá! :)
 
 Me chamo Bruna, tenho 23 anos, atualmente estudo Engenharia de Software (3° período) e faço 2 anos e alguns meses nesse mundinho de TI!
-Essas são algumas das minhas skills em Quality Assurance/Test:
+##### Essas são algumas das minhas skills em Quality Assurance/Test:
 
 #####
 

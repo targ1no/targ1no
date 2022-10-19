@@ -1,6 +1,7 @@
-### Olá! :)
+### Olá! 
+### Bem vinde ao meu repo! :p
 
-#### Me chamo Bruna, tenho 23 anos, atualmente estudo Engenharia de Software (3° período), faço 2 anos e alguns meses nesse mundinho de TI e sou QA Analyst!
+#### Meu nome é Bruna, atuo em qualidade de software e graduanda em engenharia de software!
 #### Essas são algumas das minhas skills:
 
 #####

@@ -1,7 +1,7 @@
 ### Olá! 
 ### Bem vinde ao meu repo! :p
 
-#### Meu nome é Bruna, atuo em qualidade de software e graduanda em engenharia de software!
+#### Meu nome é Bruna, atuo em qualidade de software e sou graduanda em engenharia de software!
 #### Essas são algumas das minhas skills:
 
 #####
